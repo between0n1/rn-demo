@@ -1,2 +1,3 @@
 # rn-demo
-[![Demo CountPages alpha](./RADEOM1.mp4)
+
+<video src='RADEOM1.mp4' width=180/>
