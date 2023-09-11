@@ -1,3 +1,3 @@
 # rn-demo
 
-<video src='RADEOM1.mp4' width=180/>
+![Alt text](RADEOM1.mp4)
